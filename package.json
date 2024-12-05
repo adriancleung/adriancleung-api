@@ -38,7 +38,7 @@
     "pdf-to-png-converter": "^2.7.1",
     "pg": "^8.8.0",
     "pg-hstore": "^2.3.4",
-    "sequelize": "^6.28.0",
+    "sequelize": "^6.29.0",
     "serve-favicon": "^2.5.0",
     "typescript": "^4.9.4",
     "uuid": "^9.0.0"
